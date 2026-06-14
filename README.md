@@ -69,8 +69,8 @@ This room strengthened my understanding of web application fundamentals and prep
 
 ---
 
-**Platform:** TryHackMe
-**Room:** How Websites Work
-**Status:** Completed ✅
+LinkedIN: [https://www.linkedin.com/feed/update/urn:li:activity:7472051369752018944/]
+
+X: [https://x.com/charisma1385/status/2066280431054438487]
 
 #TryHackMe #CyberSecurity #WebSecurity #WebApplications #EthicalHacking #InfoSec #LearningInPublic #BlueTeam #RedTeam #PenTesting #Linux #Networking #OWASP #HTML #JavaScript
